@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\KesehatanController;
+use App\Http\Controllers\PendidikanController;
+use App\Http\Controllers\PerlindunganController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +19,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+Route::resource('/kesehatan', KesehatanController::class);
+Route::resource('/pendidikan', PendidikanController::class);
+Route::resource('/perlindungan', PerlindunganController::class);

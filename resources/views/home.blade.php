@@ -15,15 +15,15 @@
 
     <h1 class="bigWelcome text-center">Selamat Datang di Portal SI PAUD-HI</h1>
     <div class="portalLink ">
-        <a href="">
+        <a href="/pendidikan">
             <img src="/img/icon/educationPortal.png" alt="">
             <h3>Pendidikan</h3>
         </a>
-        <a href="">
+        <a href="/kesehatan">
             <img src="/img/icon/healthPortal.png" alt="">
             <h3>Kesehatan</h3>
         </a>
-        <a href="">
+        <a href="/perlindungan">
             <img src="/img/icon/protectionPortal.png" alt="">
             <h3>Perlindungan</h3>
         </a>

@@ -32,3 +32,16 @@ footer {
     width: 200px;
     height: 200px;
 }
+
+.account {
+    float: right;
+    max-width: 50px;
+    max-height: 50px;
+    clip-path: circle(50% at 50% 50%);
+}
+.account img {
+    display: inline;
+    margin: 0 auto;
+    height: 50px;
+    width: auto;
+}
