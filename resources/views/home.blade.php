@@ -15,7 +15,7 @@
 
     <h1 class="bigWelcome text-center">Selamat Datang di Portal SI PAUD-HI</h1>
     <div class="portalLink ">
-        <a href="/pendidikan">
+        <a href="/percobaan">
             <img src="/img/icon/educationPortal.png" alt="">
             <h3>Pendidikan</h3>
         </a>
