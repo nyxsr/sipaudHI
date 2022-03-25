@@ -75,8 +75,10 @@
         </div>
         <div class="b-example-divider"></div>
         <div class="container-fluid">
+            <p>Sahrul Ramdan</p>
             <div class="account mt-5">
                 <a href="">
+
                     <img src="/img/default_account.jpg" alt="">
                 </a>
             </div>
